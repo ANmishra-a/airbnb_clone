@@ -1,0 +1,25 @@
+.card__container {
+  margin-top: 20px;
+  width: 400px;
+  min-height: fit-content;
+  /* display: flex; */
+
+  /* background-color: aqua; */
+}
+.child {
+  margin: 10px;
+  padding: 10px;
+}
+.child__info {
+  display: flex;
+  padding-top: 5px;
+  padding-left: 5px;
+  justify-content: space-between;
+}
+.child__info-right {
+  display: flex;
+  flex-direction: column;
+}
+.child__info-left {
+  display: flex;
+}

@@ -1,0 +1,7 @@
+.home__filter-container {
+  width: 100vw;
+  height: fit-content;
+}
+.home__section {
+  display: flex;
+}
