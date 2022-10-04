@@ -1,5 +1,5 @@
 # airbnb_clone
-## assignment for Trando Technologies Internship
+
 
 ###used Viet for the basic packegs
 ### used react-icon packege for all icons
